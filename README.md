@@ -1,2 +1,3 @@
 # SprintSeria
-Tes Repository Pegadaian
+
+Welcome my New Repository
